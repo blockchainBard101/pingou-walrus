@@ -11,7 +11,7 @@ A TypeScript library for managing user profiles on the Sui blockchain using Walr
 - **TypeScript Support**: Full TypeScript support with type definitions
 - **Sui Integration**: Built on top of Sui blockchain and Walrus storage
 - **Timeout Handling**: Robust timeout configuration for network operations
-- **Upload Relay**: Optimized upload performance with relay configuration
+- **Upload Relay**: Optimized upload performance with relay configuration.
 
 ## Installation
 
